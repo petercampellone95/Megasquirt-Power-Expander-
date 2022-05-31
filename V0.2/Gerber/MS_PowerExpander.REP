@@ -1,0 +1,131 @@
+*************************************************************
+FileName = MS_PowerExpander.GBR
+AutoAperture = True
+*************************************************************
+Generating : Outline
+      File : MS_PowerExpander.GM1
+
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : MS_PowerExpander.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : MS_PowerExpander.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : L2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : MS_PowerExpander.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : L2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : MS_PowerExpander.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : MS_PowerExpander.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : MS_PowerExpander.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : L2
+      File : MS_PowerExpander.GBL
+
+    Adding Layer      : L2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : L1
+      File : MS_PowerExpander.GTL
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+

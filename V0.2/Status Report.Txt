@@ -1,0 +1,16 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 3:15:21 PM On 1/12/2022
+
+Output: NC Drill
+Type  : NC Drill
+From  : PCB Document [MS_PowerExpander.CMPcbDoc]
+   Generated File[MS_PowerExpander.TXT]
+   Generated File[MS_PowerExpander.LDP]
+   Generated File[MS_PowerExpander.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:15:22 PM On 1/12/2022
